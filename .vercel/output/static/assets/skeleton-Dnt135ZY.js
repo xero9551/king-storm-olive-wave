@@ -1,0 +1,1 @@
+import{a as e,nt as t}from"./poll-kev-flN3PMmJ.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{className:e(`animate-pulse rounded-md bg-secondary`,t),...r})}export{r as t};
